@@ -5,8 +5,7 @@ namespace CatWorx.BadgeMaker
 {
   class Program
   {
-      
-      
+    
       static List<string> GetEmployees()
    {
     // I will return a List of strings
@@ -20,7 +19,8 @@ namespace CatWorx.BadgeMaker
     {
       break;
     }
-    employees.Add(input);
+    Employee currentEmployee = new Employee(input, "Smith");
+    employees.Add(currentEmployee.FirstName + " " + currentEmployee.LastName);
    }
   // This is important!
   return employees;
