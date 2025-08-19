@@ -1,0 +1,14 @@
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/bin/Debug/net8.0/CatWorx.BadgeMaker
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/bin/Debug/net8.0/CatWorx.BadgeMaker.deps.json
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/bin/Debug/net8.0/CatWorx.BadgeMaker.runtimeconfig.json
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/bin/Debug/net8.0/CatWorx.BadgeMaker.dll
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/bin/Debug/net8.0/CatWorx.BadgeMaker.pdb
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.AssemblyInfo.cs
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.dll
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/obj/Debug/net8.0/refint/CatWorx.BadgeMaker.dll
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.pdb
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/obj/Debug/net8.0/CatWorx.BadgeMaker.genruntimeconfig.cache
+/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/obj/Debug/net8.0/ref/CatWorx.BadgeMaker.dll
