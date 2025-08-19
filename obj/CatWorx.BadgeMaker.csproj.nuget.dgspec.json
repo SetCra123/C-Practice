@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj": {}
+    "/Users/LatoNino/Documents/Bootcamp/PostGradProjects/C-Practice/CatWorx.BadgeMaker.csproj": {}
   },
   "projects": {
-    "/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj": {
+    "/Users/LatoNino/Documents/Bootcamp/PostGradProjects/C-Practice/CatWorx.BadgeMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+        "projectUniqueName": "/Users/LatoNino/Documents/Bootcamp/PostGradProjects/C-Practice/CatWorx.BadgeMaker.csproj",
         "projectName": "CatWorx.BadgeMaker",
-        "projectPath": "/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+        "projectPath": "/Users/LatoNino/Documents/Bootcamp/PostGradProjects/C-Practice/CatWorx.BadgeMaker.csproj",
         "packagesPath": "/Users/LatoNino/.nuget/packages/",
-        "outputPath": "/Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/obj/",
+        "outputPath": "/Users/LatoNino/Documents/Bootcamp/PostGradProjects/C-Practice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/LatoNino/.nuget/NuGet/NuGet.Config"

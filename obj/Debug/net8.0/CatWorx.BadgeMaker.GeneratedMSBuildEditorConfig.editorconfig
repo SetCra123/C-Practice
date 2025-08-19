@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CatWorx.BadgeMaker
-build_property.ProjectDir = /Users/LatoNino/Documents/Bootcamp/PostGradProjects/CatWorx.BadgeMaker/
+build_property.ProjectDir = /Users/LatoNino/Documents/Bootcamp/PostGradProjects/C-Practice/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
